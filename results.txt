@@ -1,0 +1,6 @@
+addToShoppingCart: PASS
+deleteFromCart: PASS
+register: PASS
+addZero: FAIL
+admin: FAIL
+guest: PASS
